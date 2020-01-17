@@ -1,0 +1,35 @@
+html{
+    
+    background-image:url("../img/background-img.jpg");
+    scroll-behavior:smooth;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+body{
+    background-color:#f583ff88;
+    color:#000;
+}
+
+.heading{
+    padding: 5% 0;
+}
+
+form h5, form label:not(.custom-control-label){
+    padding:1%;
+}
+
+form, form textarea{
+    margin-bottom:10%;
+    color:#dddddd;
+    font-size:1.25em;
+}
+
+.btn{
+    font-size:1.1em;
+}
+
+.survey-main{
+    background-color:#80048b7e;
+    padding:3%;
+}
